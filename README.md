@@ -1,3 +1,3 @@
 # test999
 
-Ben Marwick and Liying Wang 
+Liying Wang & Ben Marwick
